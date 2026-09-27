@@ -1,0 +1,16 @@
+{
+  "name": "ನಮ್ಮ Split",
+  "short_name": "ನಮ್ಮ Split",
+  "description": "Split expenses with roommates, trips and family. Track who owes whom, record payments, settle up.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F7F9",
+  "theme_color": "#0F172A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
